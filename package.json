@@ -1,0 +1,21 @@
+{
+  "name": "com.hdyar.prototype-primitives",
+  "version": "0.0.1",
+  "displayName": "Prototype Primitives",
+  "description": "More basic models and textures for quickly getting a project started.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "models",
+    "primitives",
+    "prototyping"
+  ],
+  "author": {
+    "name": "Hunter Dyar",
+    "email": "me@hdyar.com",
+    "url": "https://www.hdyar.com"
+  }
+}
