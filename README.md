@@ -10,6 +10,10 @@ This packages adds new meshes that can be added through the normal menu: GameObj
 
 *You may need git installed on your system for this method to work.*
 
+> To install without git, open your unity project folder and find the Packages folder, which has manifest.json in it. Create a new folder and name it ```com.hdyar.prototypeprimitives```.
+>
+> Download the .zip of this repo (Green Code button on this page, Download Zip) and extract it's contents. Copy the files to the folder just created in the packages folder. Make sure the package.json (root of this repository) is in the root of that created folder.
+
 ## Meshes
 - Cone
 - Torus
